@@ -8,8 +8,10 @@ For example: create working / non working days for someone who works 3 days in a
 ## Running it
 This is a nodejs app so you need nodejs installed on your system and npm to install required packages.
 Once you have that, do:
+
 `npm install`
-`node index.jx`
+
+`node index.js`
 
 That should generate an ical file.
 You should also see a log on the console.
