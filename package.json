@@ -1,0 +1,14 @@
+{
+  "name": "ical-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alberto Miranda <b3rt.js@gmail.com> (http://albertomiranda.com.ar/)",
+  "license": "ISC",
+  "dependencies": {
+    "ical-generator": "^0.2.2"
+  }
+}
